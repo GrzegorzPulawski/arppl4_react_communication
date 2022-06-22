@@ -1,0 +1,13 @@
+.Appheader {
+    background-color:royalblue;
+    width: 60%;
+    height: 90px;
+    display: flex;
+
+}
+.TextLewa {
+    height: 100%;
+    width: 60%;
+    text-align: left;
+    margin: fill;
+}
