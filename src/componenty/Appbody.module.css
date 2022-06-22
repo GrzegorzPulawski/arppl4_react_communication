@@ -1,5 +1,43 @@
 .Appbody{
-    background-color: aqua;
-    width: 90%;
-    height: 90%;
+    background-color:lightgray;
+    width: 60%;
+    height: 90vh;
+    margin: 0 auto 0 auto;
+}
+.PasekNawigacyjny {
+    background-color: blue;
+    height: 10% ;
+    width: 100%;
+    display:inline-flex;
+}
+
+.TextLewa{
+    text-align: left;
+    color: azure;
+
+    padding-left: 20px;
+}
+.Lewa {
+    height: auto;
+    width: 20%;
+}
+.TextLewa2{
+    text-align: left;
+    color: azure;
+}
+.TextPrawa{
+    text-align: right;
+    color: azure;
+
+    padding-right: 70px;
+}
+.Prawa {
+    height: auto;
+    width: 60%;
+}
+.TextPrawa2{
+    text-align: right;
+    color: azure;
+
+
 }
